@@ -4,7 +4,7 @@
 Website and documentation: https://languagemachines.github.io/ucto
 
 uctodata provides datafiles for the tokeniser ucto for several languages. The
-language code can be supplied to ucto using the ``-L`` paramater (e.g. ``ucto
+language code can be supplied to ucto using the ``-L`` parameter (e.g. ``ucto
 -L nld input.txt``):
 
  * ``eng`` - English
